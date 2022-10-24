@@ -1,5 +1,5 @@
 ## Usage
-`npm i`
+`npm i`. 
 `k6 run -e ENVIRONMENT=test -e test/booking.api.ts`
 
 ## Reference
